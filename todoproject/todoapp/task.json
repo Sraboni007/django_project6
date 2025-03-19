@@ -1,0 +1,42 @@
+[
+    {
+        "model":"todoapp.student",
+        "pk": 1,
+        "fields": {
+            "name": "emu",
+            "age": 21,
+            "email": "emu@gmail.com",
+            "address": "cumilla"
+        }
+    },
+    {
+        "model":"todoapp.student",
+        "pk": 2,
+        "fields": {
+            "name": "neloy",
+            "age": 12,
+            "email": "neloy@gmail.com",
+            "address": "cumilla"
+        }
+    },
+    {
+        "model":"todoapp.student",
+        "pk": 3,
+        "fields": {
+            "name": "adil",
+            "age": 5,
+            "email": "adil@gmail.com",
+            "address": "pabna"
+        }
+    },
+    {
+        "model":"todoapp.student",
+        "pk": 4,
+        "fields": {
+            "name": "ishak",
+            "age": 2,
+            "email": "ishu@gmail.com",
+            "address": "cumilla"
+        }
+    }
+]
